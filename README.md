@@ -11,6 +11,7 @@ Each game's branch contains its documentation and a version history. Executables
 | Game | Game branch | Downloads |
 | --- | --- | --- |
 | Sorcerer's Sanctum | [sorcerers-sanctum](../../tree/sorcerers-sanctum) | [Releases](../../releases?q=sorcerers-sanctum&expanded=true) |
+| King of Tokyo - Godzilla | [king-of-tokyo-godzilla](../../tree/king-of-tokyo-godzilla) | [Latest build and download](../../tree/king-of-tokyo-godzilla#latest-demo) · [Releases](../../releases?q=king-of-tokyo-godzilla&expanded=true) |
 
 Different releases represent different free demo builds. Read the release notes and include the full version/build identifier with feedback.
 
