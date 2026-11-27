@@ -4,7 +4,7 @@ Published by **Herald Games, LLC**.
 
 ## Latest demo
 
-Version **0.1.0**, demo build **2**. [Download this build](https://github.com/NoahThacker31/Herald-Games-Demos/releases/tag/king-of-tokyo-godzilla-v0.1.0-build.2). Download the Windows portable executable. No Git installation or source checkout is required. Earlier versions/builds remain in [Releases](https://github.com/NoahThacker31/Herald-Games-Demos/releases?q=king-of-tokyo-godzilla&expanded=true) and releases.json.
+Version **0.1.0**, demo build **3**. [Download this build](https://github.com/NoahThacker31/Herald-Games-Demos/releases/tag/king-of-tokyo-godzilla-v0.1.0-build.3). Choose the Windows portable executable, or the macOS universal DMG/ZIP (Intel and Apple Silicon). The DMG installs by dragging the app into Applications; the ZIP contains the same app. macOS alpha builds are ad-hoc signed, not Apple-notarized. See [Apple’s opening instructions](https://support.apple.com/en-us/102445) if macOS blocks the first launch. No Git installation or source checkout is required. Earlier versions/builds remain in [Releases](https://github.com/NoahThacker31/Herald-Games-Demos/releases?q=king-of-tokyo-godzilla&expanded=true) and releases.json.
 
 ## Feedback, development notes and FAQs
 
